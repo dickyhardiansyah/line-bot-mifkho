@@ -1,0 +1,16 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://dickyhhhome.files.wordpress.com/2019/09/b728ff04-ee68-4650-9c0e-c9bad6064346.jpg",
+    "size": "full",
+    "aspectRatio": "3:4",
+    "aspectMode": "fit",
+    "backgroundColor": "#9EACE8"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#9EACE8"
+    }
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Jadwal Ta'lim Hari Kamis",
+        "size": "md",
+        "align": "center",
+        "gravity": "center",
+        "weight": "bold"
+      }
+    ]
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://dickyhhhome.files.wordpress.com/2019/09/2db3b8bb-bb07-41ac-9d93-73a543e88472.png",
+    "size": "full",
+    "aspectRatio": "1.91:1",
+    "aspectMode": "fit",
+    "backgroundColor": "#C6C92C"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 1,
+        "contents": [
+          {
+            "type": "text",
+            "text": "Kelas Idad",
+            "weight": "bold",
+            "color": "#C6C92C"
+          },
+          {
+            "type": "text",
+            "text": "Pagi",
+            "size": "xs",
+            "color": "#C6C92C"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Fiqih Safinah"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Aula 1"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Ust Mustadim"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Malam",
+            "size": "xs",
+            "color": "#C6C92C"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Riyadhoh"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Masjid"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Sesuai Jadwal"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xl",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "Kelas Ibtida",
+            "weight": "bold",
+            "color": "#C6C92C"
+          },
+          {
+            "type": "text",
+            "text": "Pagi",
+            "size": "xs",
+            "color": "#C6C92C"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Nahwu Jurumiyah"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Aula 2"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Ust Furqon"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Malam",
+            "size": "xs",
+            "color": "#C6C92C"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Ryadhoh"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Masjid"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Sesuai Jadwal"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xl",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "Kelas Wustho",
+            "weight": "bold",
+            "color": "#C6C92C"
+          },
+          {
+            "type": "text",
+            "text": "Pagi",
+            "size": "xs",
+            "color": "#C6C92C"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Aqidah Islamiyah 2"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Aula 3"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Ust Hafidzin"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Malam",
+            "size": "xs",
+            "color": "#C6C92C"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Ryadhoh"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Masjid"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Sesuai Jadwal"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#FFFFFF"
+    }
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Jadwal Ta'lim Hari Senin",
+        "size": "md",
+        "align": "center",
+        "gravity": "center",
+        "weight": "bold"
+      }
+    ]
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://dickyhhhome.files.wordpress.com/2019/09/0d730044-4ccb-4778-9ce8-741d5a007253.png",
+    "size": "full",
+    "aspectRatio": "1.91:1",
+    "aspectMode": "fit",
+    "backgroundColor": "#C9302C"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 1,
+        "contents": [
+          {
+            "type": "text",
+            "text": "Kelas Idad",
+            "weight": "bold",
+            "color": "#C9302C"
+          },
+          {
+            "type": "text",
+            "text": "Pagi",
+            "size": "xs",
+            "color": "#C9302C"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Tasrif"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Aula 1"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Ust Hendra"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Malam",
+            "size": "xs",
+            "color": "#C9302C"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Tahfidz"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Aula 1"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Ust Rohiwan"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xl",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "Kelas Ibtida",
+            "weight": "bold",
+            "color": "#C9302C"
+          },
+          {
+            "type": "text",
+            "text": "Pagi",
+            "size": "xs",
+            "color": "#C9302C"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Aqidah Islamiyah 1"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Aula 2"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "KH. Hafidzin"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Malam",
+            "size": "xs",
+            "color": "#C9302C"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Tsaqofah Islamiyah"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Aula 3"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Ust Bambang"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xl",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "Kelas Wustho",
+            "weight": "bold",
+            "color": "#C9302C"
+          },
+          {
+            "type": "text",
+            "text": "Pagi",
+            "size": "xs",
+            "color": "#C9302C"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Nahwu Jurumiyah"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Aula 3"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Ust Bambang"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Malam",
+            "size": "xs",
+            "color": "#C9302C"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Tsaqofah Islamiyah"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Aula 3"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Ust Bambang"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#FFFFFF"
+    }
+  }
+}

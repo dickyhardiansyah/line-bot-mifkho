@@ -1,0 +1,360 @@
+{
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Jadwal Ta'lim Hari Sabtu",
+        "size": "md",
+        "align": "center",
+        "gravity": "center",
+        "weight": "bold"
+      }
+    ]
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://dickyhhhome.files.wordpress.com/2019/09/ad8b9ef3-cb8a-4d49-a231-06b36da80015.png",
+    "size": "full",
+    "aspectRatio": "1.91:1",
+    "aspectMode": "fit",
+    "backgroundColor": "#BB2CC9"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 1,
+        "contents": [
+          {
+            "type": "text",
+            "text": "Kelas Idad",
+            "weight": "bold",
+            "color": "#BB2CC9"
+          },
+          {
+            "type": "text",
+            "text": "Pagi",
+            "size": "xs",
+            "color": "#BB2CC9"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Riyadusholihin"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Aula 1"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Ust Bambang"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Malam",
+            "size": "xs",
+            "color": "#BB2CC9"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xl",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "Kelas Ibtida",
+            "weight": "bold",
+            "color": "#BB2CC9"
+          },
+          {
+            "type": "text",
+            "text": "Pagi",
+            "size": "xs",
+            "color": "#BB2CC9"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Riyadusholihin"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Aula 1"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Ust Bambang"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Malam",
+            "size": "xs",
+            "color": "#BB2CC9"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xl",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "Kelas Wustho",
+            "weight": "bold",
+            "color": "#BB2CC9"
+          },
+          {
+            "type": "text",
+            "text": "Pagi",
+            "size": "xs",
+            "color": "#BB2CC9"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Riyadusholihin"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Aula 1"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Ust Bambang"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Malam",
+            "size": "xs",
+            "color": "#BB2CC9"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#FFFFFF"
+    }
+  }
+}

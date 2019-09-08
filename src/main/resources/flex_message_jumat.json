@@ -1,0 +1,360 @@
+{
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Jadwal Ta'lim Hari Jumat",
+        "size": "md",
+        "align": "center",
+        "gravity": "center",
+        "weight": "bold"
+      }
+    ]
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://dickyhhhome.files.wordpress.com/2019/09/wahyudi.png",
+    "size": "full",
+    "aspectRatio": "1.91:1",
+    "aspectMode": "fit",
+    "backgroundColor": "#2C2FC9"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 1,
+        "contents": [
+          {
+            "type": "text",
+            "text": "Kelas Idad",
+            "weight": "bold",
+            "color": "#2C2FC9"
+          },
+          {
+            "type": "text",
+            "text": "Pagi",
+            "size": "xs",
+            "color": "#2C2FC9"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Kuliah Umum"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Masjid"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Tentatif"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Malam",
+            "size": "xs",
+            "color": "#2C2FC9"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Talim Mutaalim"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Aula 1"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Ust Furqon"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xl",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "Kelas Ibtida",
+            "weight": "bold",
+            "color": "#2C2FC9"
+          },
+          {
+            "type": "text",
+            "text": "Pagi",
+            "size": "xs",
+            "color": "#2C2FC9"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Kuliah Umum"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Masjid"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Tentatif"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Malam",
+            "size": "xs",
+            "color": "#2C2FC9"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Talim Mutaalim"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Aula 3"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Ust Hafidzin"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xl",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "Kelas Wustho",
+            "weight": "bold",
+            "color": "#2C2FC9"
+          },
+          {
+            "type": "text",
+            "text": "Pagi",
+            "size": "xs",
+            "color": "#2C2FC9"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Kuliah Umum"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Masjid"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Tentatif"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Malam",
+            "size": "xs",
+            "color": "#2C2FC9"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Mata Ta'lim"
+              },
+              {
+                "type": "text",
+                "text": "Talim Mutaalim"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Tempat"
+              },
+              {
+                "type": "text",
+                "text": "Aula 3"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pengajar"
+              },
+              {
+                "type": "text",
+                "text": "Ust Hafidzin"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#FFFFFF"
+    }
+  }
+}

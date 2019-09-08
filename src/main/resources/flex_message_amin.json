@@ -1,0 +1,16 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://dickyhhhome.files.wordpress.com/2019/09/along.png",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "fit",
+    "backgroundColor": "#9EACE8"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#9EACE8"
+    }
+  }
+}

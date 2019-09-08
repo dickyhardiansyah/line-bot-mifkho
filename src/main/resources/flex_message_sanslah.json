@@ -1,0 +1,16 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://dickyhhhome.files.wordpress.com/2019/09/yuda.png",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "fit",
+    "backgroundColor": "#C19EE8"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#C19EE8"
+    }
+  }
+}
