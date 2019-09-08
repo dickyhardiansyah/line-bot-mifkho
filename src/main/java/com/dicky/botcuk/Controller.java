@@ -121,8 +121,6 @@ public class Controller {
                 replyFlexMessageAss(event.getReplyToken());
             } else if (textMessageContent.getText().toLowerCase().contains("info")) {
                 replyMessageInfo(event.getReplyToken());
-            } else if (textMessageContent.getText().toLowerCase().contains("fadhil")){
-                replyFlexMessageFadhil(event.getReplyToken());
             }else {
                 return;
             }
@@ -288,22 +286,6 @@ public class Controller {
             FlexContainer flexContainer = objectMapper.readValue(flexTemplate, FlexContainer.class);
 
             ReplyMessage replyMessage = new ReplyMessage(replyToken, new FlexMessage("amin", flexContainer));
-            reply(replyMessage);
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
-    }
-
-    //flex message amin
-    private void replyFlexMessageFadhil(String replyToken) {
-        try {
-            ClassLoader classLoader = getClass().getClassLoader();
-            String flexTemplate = IOUtils.toString(classLoader.getResourceAsStream("flex_message_kela.json"));
-
-            ObjectMapper objectMapper = ModelObjectMapper.createNewObjectMapper();
-            FlexContainer flexContainer = objectMapper.readValue(flexTemplate, FlexContainer.class);
-
-            ReplyMessage replyMessage = new ReplyMessage(replyToken, new FlexMessage("fadhil", flexContainer));
             reply(replyMessage);
         } catch (IOException e) {
             throw new RuntimeException(e);
